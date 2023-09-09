@@ -1,8 +1,7 @@
  # About me
 - Hi, I’m Sylwia
-- Veterinarian
 - Pet owner - Niunia the dog
-- In the middle of changing career path - junior tester 
+- In the middle of changing career path - junior automation tester 
 
 # Currenty learning
 - Jira 
